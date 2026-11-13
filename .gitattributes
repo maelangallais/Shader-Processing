@@ -1,0 +1,3 @@
+# Classify JS-wrapped GLSL shaders as GLSL for GitHub Linguist
+Files/Scripts/js/vertexShader.js linguist-language=GLSL
+Files/Scripts/js/fragmentShader.js linguist-language=GLSL
